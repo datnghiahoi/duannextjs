@@ -1,0 +1,16 @@
+[{
+    "_id": {
+      "$oid": "66758da7cb0dded448a58ba7"
+    },
+    "name": "category 1",
+    "image": "category1.jpeg",
+    "status": 1
+  },
+  {
+    "_id": {
+      "$oid": "66758e26cb0dded448a58ba8"
+    },
+    "name": "category 2",
+    "image": "category2.jpeg",
+    "status": 1
+  }]

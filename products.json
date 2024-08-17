@@ -1,0 +1,123 @@
+[
+    {
+      "_id": {
+        "$oid": "6675905ecb0dded448a58bb0"
+      },
+      "name": "Candles RD Varsity Jacket",
+      "image": "anh1.jpeg",
+      "price": 350000,
+      "description": "This is the description for product 1",
+      "categoryId": "66758da7cb0dded448a58ba7"
+    },
+    {
+      "_id": {
+        "$oid": "6675906ecb0dded448a58bb1"
+      },
+      "name": "anh2.jpeg",
+      "image": "Candles Coldzy Knit Sweater",
+      "price": 550000,
+      "description": "This is the description for product 2",
+      "categoryId": "66758e26cb0dded448a58ba8"
+    },
+    {
+      "_id": {
+        "$oid": "6675907ecb0dded448a58bb2"
+      },
+      "name": "Candles ADT Overshirt",
+      "image": "anh3.jpg",
+      "price": 554000,
+      "description": "This is the description for product 3",
+      "categoryId": "66758da7cb0dded448a58ba7"
+    },
+    {
+      "_id": {
+        "$oid": "6675908ecb0dded448a58bb3"
+      },
+      "name": "Candles RD Varsity Jacket",
+      "image": "anh4.jpg",
+      "price": 400000,
+      "description": "This is the description for product 4",
+      "categoryId": "66758e26cb0dded448a58ba8"
+    },
+    {
+      "_id": {
+        "$oid": "6675909ecb0dded448a58bb4"
+      },
+      "name": "Candles RD Flannel Jacket",
+      "image": "anh5.jpg",
+      "price": 635000,
+      "description": "This is the description for product 5",
+      "categoryId": "66758da7cb0dded448a58ba7"
+    },
+    {
+      "_id": {
+        "$oid": "667590aecb0dded448a58bb5"
+      },
+      "name": "Candles RD Flannel Jacket",
+      "image": "anh6.jpg",
+      "price": 600000,
+      "description": "This is the description for product 6",
+      "categoryId": "66758e26cb0dded448a58ba8"
+    },
+    {
+      "_id": {
+        "$oid": "667590b9cb0dded448a58bb6"
+      },
+      "name": "Candles Coldzy Detroit Jacket",
+      "image": "anh7.jpeg",
+      "price": 750000,
+      "description": "This is the description for product 7",
+      "categoryId": "66758da7cb0dded448a58ba7"
+    },
+    {
+      "_id": {
+        "$oid": "667590c4cb0dded448a58bb7"
+      },
+      "name": "Candles Coldzy Knit Sweater",
+      "image": "anh8.jpeg",
+      "price": 590000,
+      "description": "This is the description for product 8",
+      "categoryId": "66758e26cb0dded448a58ba8"
+    },
+    {
+      "_id": {
+        "$oid": "667590d0cb0dded448a58bb8"
+      },
+      "name": "Candles ADt Upper Bomber",
+      "image": "anh9.jpg",
+      "price": 890000,
+      "description": "This is the description for product 9",
+      "categoryId": "66758da7cb0dded448a58ba7"
+    },
+    {
+      "_id": {
+        "$oid": "667590dccb0dded448a58bb9"
+      },
+      "name": "Candles Coldzy Track Jacket",
+      "image": "anh10.jpg",
+      "price": 590000,
+      "description": "This is the description for product 10",
+      "categoryId": "66758e26cb0dded448a58ba8"
+    },
+    {
+      "_id": {
+        "$oid": "667590dccb0dded448a58bb9"
+      },
+      "name": "Candles Coldzy Detroit Jacket",
+      "image": "anh11.jpeg",
+      "price": 455000,
+      "description": "This is the description for product 10",
+      "categoryId": "66758e26cb0dded448a58ba8"
+    },{
+      "_id": {
+        "$oid": "667590dccb0dded448a58bb9"
+      },
+      "name": "Candles Coldzy Knit Sweater",
+      "image": "anh12.jpeg",
+      "price": 599000,
+      "description": "This is the description for product 10",
+      "categoryId": "66758e26cb0dded448a58ba8"
+    }
+    
+  ]
+  
